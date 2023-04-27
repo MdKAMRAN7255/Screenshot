@@ -2,7 +2,5 @@
 
 - George Washington
 * John Adams
-
-mlsfdk;
-
-+ Thomas Jefferson
++ #Thomas Jefferson
+- MdKamran
